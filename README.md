@@ -25,3 +25,10 @@ Please note that the repository will be regularly updated with new materials, in
 While the repository primarily serves as a distribution channel for course materials, contributions from students are welcome. If you discover any issues, have suggestions for improvements, or want to contribute relevant resources, you can submit a pull request or reach out to the course instructors for further discussion.
 
 We hope you find this Git repository helpful and that it enhances your learning experience in the Practical Deep Learning course at the University of Gdansk. Happy coding and deep learning exploration!
+
+## Contact us
+
+If you would like to discuss anything course related or not feel free to reach out to us:
+
+* Dariusz Piotrowski - piotrod@amazon.com
+* Adam Gabryś - gabrysa@amazon.com
